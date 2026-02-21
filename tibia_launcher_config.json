@@ -15,7 +15,7 @@
 	],
 	"shortcutName": "Fentebra Launcher",
 	"clientFolder": "packages",
-	"newClientUrl" : "https://github.com/MatkTibia/update/releases/download/1511/packages.zip",
-	"newLauncherUrl": "https://github.com/MatkTibia/update/releases/download/launcher/FentebraLauncher.exe",
+	"newClientUrl" : "https://github.com/MatkTibia/update/releases/download/Clients/TibiaV15.zip",
+	"newLauncherUrl": "https://github.com/MatkTibia/update/releases/download/Clients/FentebraLauncher.exe",
 	"clientExecutable": "client.exe"
 }
